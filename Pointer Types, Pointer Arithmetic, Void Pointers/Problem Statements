@@ -1,0 +1,13 @@
+
+#Pointer Types, Pointer Arithmetic, Void Pointers
+
+1.Write a program to demonstrate different pointer types (int, float, double, char).
+2.Create a program to manipulate an array using pointer arithmetic.
+3.Write a program to calculate the difference between two pointers.
+4.Implement a function that performs pointer arithmetic to reverse an array.
+5.Write a function to find the size of a dynamically allocated array using pointer arithmetic.
+6.Demonstrate how to pass void pointers to a function that works on various data types (int, char, float).
+7.Create a program that uses void pointers for type-independent memory handling.
+8.Implement pointer arithmetic for navigating through a struct's members.
+9.Write a function to swap two integers using pointers and pointer arithmetic.
+10.Write a program to perform matrix addition using pointer arithmetic.
