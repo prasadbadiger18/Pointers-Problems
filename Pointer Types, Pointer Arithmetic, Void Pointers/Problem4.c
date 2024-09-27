@@ -1,3 +1,4 @@
+//4.Implement a function that performs pointer arithmetic to reverse an array.
 #include<stdio.h>
 int main()
 {
