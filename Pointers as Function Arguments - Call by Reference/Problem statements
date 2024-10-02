@@ -1,0 +1,12 @@
+3. Pointers as Function Arguments - Call by Reference
+
+1.Write a function to swap two integers using call by reference.
+2.Implement a program to find the maximum and minimum elements in an array using pointers as function arguments.
+3.Write a program to reverse a string using call by reference.
+4.Implement a function that changes the value of an integer using call by reference.
+5.Create a program to sort an array using a pointer to the array passed as a function argument.
+6.Write a program to find the sum of two numbers using call by reference.
+7.Implement a program to rotate an array using call by reference.
+8.Create a function to modify the elements of a 2D array using call by reference.
+9.Write a program to perform matrix multiplication using call by reference.
+10.Implement a program to swap the contents of two arrays using call by reference.
